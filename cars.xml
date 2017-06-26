@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Cars>
+	<Car img="./car1.jpg">
+		<Manufacturer>BMW</Manufacturer>
+		<Model>M3</Model>
+		<Year>2016</Year>
+		<Color type="metallic">Black<Color>
+	</Car>
+	<Car img="./car2.jpg">
+		<Manufacturer>Hyundai</Manufacturer>
+		<Model>Accent</Model>
+		<Year>2013</Year>
+		<Color type="metallic">White<Color>
+	</Car>
+	<Car img="./car3.jpg">
+		<Manufacturer>ВАЗ</Manufacturer>
+		<Model>2106</Model>
+		<Year>1985</Year>
+		<Color type="metallic">Blue<Color>
+	</Car>
+</Cars>
